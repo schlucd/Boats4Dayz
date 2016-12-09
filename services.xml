@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--
+	Services XML document
+   Author: Jesse Valley
+   Date:   2016-11-16
+
+   Filename: services.xml
+   Supporting files: xml.css
+	
+	
+-->
+<?xml-stylesheet type="text/css" href="xml.css" ?>
+<services>
+	<service>
+		<h2>Boat Rentals</h2>
+		<description>We offer all kinds of boat rentals, so you can enjoy the lake life right now! From a simple fishing boat to a luxurious yacht, and everything in between. We even have jetskis, kayaks/canoes, and paddleboards. Sign up and chill out with Boats4Dayz.
+		</description>
+	</service>
+	<service>
+		<h2>Boat Owners: Rent out your boat</h2>
+		<description>Earn extra income by renting out your boat when you're not using it. Sign up with Boats4Dayz to get started today.
+		</description>
+	</service>	
+	<service>
+		<h2>Catering &amp; Premium Packages</h2>
+		<description>Are you looking for the VIP treatment? Boats4Dayz can cater your next outing, whether big or small. Looking for the best fishing spots? We have pro guides for hire. You can even hire a captain if you really want to live it up.
+		</description>
+	</service>	
+	<service>
+		<h2>Parties</h2>
+		<description>Boats4Dayz parties are extraordinary. Whether for a children's birthday party or a black-tie event, Boats4Dayz will throw a party that none of your guests will forget.
+		</description>
+	</service>
+</services>

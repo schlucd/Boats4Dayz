@@ -1,0 +1,119 @@
+
+
+	<boats>
+		<boat id="a100">
+			<name>Wet Dream</name>
+			<type>Pontoon</type>
+			<price>40</price>
+			<make>Bennington</make>
+			<capacity>8</capacity>
+		</boat>
+		
+		<boat id="a101">
+			<name>Liquid Asset</name>
+			<type>Speed Boat</type>
+			<price>45</price>
+			<make>Monterey</make>
+			<capacity>2</capacity>
+		</boat>
+		
+		<boat id="a102">
+		    <name>Pier Pressure</name>
+			<type>Jet Ski</type>
+			<price>30</price>
+			<make>Kawasaki</make>
+			<capacity>2</capacity>
+		</boat>
+		
+		<boat id="a103">
+			<name>Irish Wake</name>
+			<type>Speed Boat</type>
+			<price>40</price>
+			<make>Bayliner</make>
+			<capacity>4</capacity>
+		</boat>
+		<boat id="a104">
+			<name>Sea Senora</name>
+			<type>Pontoon</type>
+			<price>42</price>
+			<make>Pond King</make>
+			<capacity>6</capacity>
+		</boat>
+		<boat id="a105">
+			<name>Cruiser</name>
+			<type>Speed Boat</type>
+			<price>45</price>
+			<make>Glastron</make>
+			<capacity>6</capacity>
+		</boat>
+		<boat id="a106">
+			<name>Fat Boy</name>
+			<type>Yacht</type>
+			<price>55</price>
+			<make>Bayliner</make>
+			<capacity>9</capacity>
+		</boat>
+		<boat id="a107">
+			<name>Thresher</name>
+			<type>Speed Boat</type>
+			<price>40</price>
+			<make>MaxumSCL2000</make>
+			<capacity>5</capacity>
+		</boat>
+		<boat id ="a108">
+			<name>Slow n' Steady</name>
+			<type>Yacht</type>
+			<price>55</price>
+			<make>Cobalt360</make>
+			<capacity>9</capacity>
+		</boat>
+		<boat id="a109">
+			<name>Flash</name>
+			<type>Speed Boat</type>
+			<price>40</price>
+			<make>Mastercraft</make>
+			<capacity>6</capacity>
+		</boat>
+		<boat id="a110">
+			<name>Ranger</name>
+			<type>Fishing</type>
+			<price>40</price>
+			<make>Bass Tracker Pro</make>
+			<capacity>4</capacity>
+		</boat>
+		<boat id="a111">
+			<name>U Mad Bro</name>
+			<type>Jet Ski</type>
+			<price>35</price>
+			<make>Yamaha</make>
+			<capacity>3</capacity>
+		</boat>
+		<boat id="a112">
+			<name>Lily</name>
+			<type>Pontoon</type>
+			<price>40</price>
+			<make>Sweetwater</make>
+			<capacity>9</capacity>
+		</boat>
+		<boat id="a113">
+			<name>TGIF</name>
+			<type>Pontoon</type>
+			<price>40</price>
+			<make>Tahoe</make>
+			<capacity>9</capacity>
+		</boat>
+		<boat id="a114">
+			<name>10 Second Magic</name>
+			<type>Speed Boat</type>
+			<price>40</price>
+			<make>Epic</make>
+			<capacity>8</capacity>
+		</boat>
+		<boat id="a115">
+			<name>Brandy</name>
+			<type>Fishing</type>
+			<price>30</price>
+			<make>Alumacraft</make>
+			<capacity>3</capacity>
+		</boat>
+	</boats>
